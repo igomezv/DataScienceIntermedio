@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pandas
+seaborn
+sklearn
+tensorflow
+keras
+opencv-python
+Pillow
+scikit-image
+nltk
+spacy
+beautifulsoup4
