@@ -20,8 +20,8 @@ Para evitar instalación de librerías se recomienda Google Colab, el cual es un
 
 Desde Google Colab puedes elegir una de las siguientes opciones:
 
-    Buscar este repositorio, abrirlo y hacer una copia en tu Google Drive para poder guardar tus cambios.
+ - Buscar este repositorio, abrirlo y hacer una copia en tu Google Drive para poder guardar tus cambios.
 
-    Clonar o descargar el repositorio en tu computadora y abrir las notebooks desde Google Colab.
+ - Clonar o descargar el repositorio en tu computadora y abrir las notebooks desde Google Colab.
 
-    Hacer un fork de este repositorio en tu propia cuenta de GitHub y buscar tu nuevo repositorio como en la opción 1.
+ - Hacer un fork de este repositorio en tu propia cuenta de GitHub y buscar tu nuevo repositorio como en la opción 1.
