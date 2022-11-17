@@ -2,7 +2,7 @@ numpy
 matplotlib
 pandas
 seaborn
-sklearn
+scikit-learn
 tensorflow
 keras
 opencv-python
@@ -11,3 +11,11 @@ scikit-image
 nltk
 spacy
 beautifulsoup4
+scikit-image
+Pillow 
+opencv-python
+stable_baselines3
+cmake 
+gym 
+pygame 
+gym[all] 
