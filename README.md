@@ -25,3 +25,9 @@ Desde Google Colab puedes elegir una de las siguientes opciones:
  - Clonar o descargar el repositorio en tu computadora y abrir las notebooks desde Google Colab.
 
  - Hacer un fork de este repositorio en tu propia cuenta de GitHub y buscar tu nuevo repositorio como en la opción 1.
+
+Para la parte de NLP, una vez instalado spacy y nltk, es necesario descargar lo siguiente:
+
+- python3 -m spacy download es_core_news_sm
+
+- python3 -m spacy download en_core_web_sm
