@@ -19,3 +19,4 @@ cmake
 gym 
 pygame 
 gym[all] 
+wordcloud
