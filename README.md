@@ -1,4 +1,4 @@
-# Curso: CienciaDatosIntermedio
+# Curso: Data Science Intermedio
 
 
 Duración: 30 horas.
