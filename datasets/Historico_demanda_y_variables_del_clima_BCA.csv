@@ -1,11 +1,4 @@
-fecha,dia_semana_num,pandemia,mes,horario_verano,hora,"demanda
-(MWh)","temperatura
-(°F)"," precipitacion
-(mm)"," humedad
-(%)"," velocidad
-viento
- (m/s)"," nubosidad 
-(%)"
+fecha,dia_semana_num,pandemia,mes,horario_verano,hora,demanda,temperatura,precipitacion,humedad,velocidadviento,nubosidad
 01/01/2020,3,1,1,0,1,979.9012523,45,0,62.5,2.8,0
 01/01/2020,3,1,1,0,2,956.9350496,44,0,59.6,2.3,7.9
 01/01/2020,3,1,1,0,3,932.8840732,44,0,56.4,1.7,16
@@ -26310,4 +26303,3 @@ viento
 31/12/2022,6,0,12,0,22,1123.902365,59,,,,
 31/12/2022,6,0,12,0,23,1081.743151,58,,,,
 31/12/2022,6,0,12,0,24,1042.502072,57,,,,
-31/12/2022,,,,,,,,,,,
