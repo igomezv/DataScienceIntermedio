@@ -1,5 +1,6 @@
 # Curso: Data Science Intermedio
 
+Curso impartido en octubre 2022 y noviembre 2023.
 
 Duración: 30 horas.
 
